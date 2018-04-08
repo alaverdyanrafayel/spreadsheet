@@ -1,0 +1,9 @@
+node_modules/
+.idea
+dist/
+production/css/style.css
+production/js/bundle.js
+production/js/bundle.js.gz
+nohup.out
+.vscode/
+.DS_Store
